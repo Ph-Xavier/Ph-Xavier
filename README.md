@@ -15,8 +15,8 @@
             
 :art: Sobre
 
-- 🎮 Sou Paulistano , 25 anos , moro na região de Franca-Sp.Apaixonado por games , músicas , e Harry Potter ⚡. 
-- Sempre fui apaixonado por tecnologia, pensava ser da área de Designer, mas me encontrei em programação. Sou iniciante, estou focado em Front a 1 ano e estou super empolgado com a área e estudando muito.
+- 🎮 Sou Paulistano , moro na região de Franca-Sp.Apaixonado por games , músicas , e Harry Potter ⚡. 
+- Sempre fui apaixonado por tecnologia, pensava ser da área de Designer, mas me encontrei em programação. Sou iniciante, estou focado em Front e estou super empolgado com a área e estudando muito.
           
 
 <div>
