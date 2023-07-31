@@ -16,7 +16,6 @@
  ### 📚 Github Stats:        
 
 <div>
-<a href="https://github.com/Murfy9">
          
 [![GitHub Streak](https://streak-stats.demolab.com?user=Murfy9&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murfy9&layout=compact&langs_count=7&theme=dracula"/>
          
