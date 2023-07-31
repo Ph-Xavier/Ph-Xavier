@@ -7,7 +7,7 @@
 
 :computer:Tecnologias e Ferramentas
 
-- 📖 Atualmente estou estudando muito para aprimorar meus conhecimentos em Front-end. Estudo na Alura a 2 anos e venho adquirindo conhecimento em HTML semântico, CSS e Javascript.
+- 📖 Atualmente estou estudando muito para aprimorar meus conhecimentos em Front-end. Estudo na Alura a 2 anos e venho adquirindo conhecimento em HTML semântico, CSS , Javascript, Nodejs e SASS.
 
 <div  style="display: inline-block"><br> 
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,12 +18,8 @@
 </div>
 
 ##
-
-:art: Sobre
-
-- 🎮 Sou Paulistano , moro na região de Franca-Sp. Apaixonado por games , músicas , e Harry Potter ⚡
          
- ### 📚 Github Stats:        
+### 📚 Github Stats:        
          
 [![GitHub Streak](https://streak-stats.demolab.com?user=Murfy9&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
