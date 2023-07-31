@@ -22,5 +22,5 @@
          
 </div>
 
-![Snake animation](https://github.com/{{Murfy9}}/{{Murfy9}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Murfy9/Murfy9/blob/output/github-contribution-grid-snake.svg)
 
