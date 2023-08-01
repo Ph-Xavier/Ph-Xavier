@@ -3,13 +3,13 @@
 ## 👋 Óla! Bem Vindo(a) ao meu Github ^-^ !
 ### Sou Pedro Henrique, apaixonado por tecnologia e pelo mundo da programação.
 
-### - 🌱 Meus Estudos Atuais são em aprofundar meu conhecimento em Javascript e mergulhar no mundo dos frameworks (React, Angular e Vue.js).
+### 🌱 Meus Estudos Atuais são em aprofundar meu conhecimento em Javascript e mergulhar no mundo dos frameworks (React, Angular e Vue.js).
 
 ##
 
 ### :computer: Tecnologias e Ferramentas
 
-### - 📖 Atualmente estou estudando muito para aprimorar meus conhecimentos em Front-end. Estudo na Alura a 2 anos e venho adquirindo conhecimento em HTML semântico, CSS , Javascript.
+### 📖 Atualmente estou estudando muito para aprimorar meus conhecimentos em Front-end. Estudo na Alura a 2 anos e venho adquirindo conhecimento em HTML semântico, CSS , Javascript.
 
 <div  style="display: inline-block"><br> 
 <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
