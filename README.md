@@ -30,7 +30,3 @@
 <img  width="200" height="200" src="/assets/img/zelda-arrow.gif"/>
 
 </div>
-
-##
-
-![Snake animation](https://github.com/murfy9/murfy9/blob/output/github-contribution-grid-snake.svg)
